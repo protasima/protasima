@@ -8,7 +8,7 @@ I'm prefer back-end development, but I have to be a full stack developer in the 
 * 📚 I'm currently learning in technical aspects of information security and cryptography
 * ⚡ In my free time, I'm practicing in front-end development 📈
 * 📋 There is my public channel: ⚙️[the child of the winds](https://t.me/dev_protasima)⚙️
-* 🎉 Hobbies: videogames 🎮, reading books 📗, listening music 🎧
+* 🎉 Hobbies: videogames 🎮, reading books, listening music 🎧
 
 
 ### I code with:
