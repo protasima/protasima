@@ -3,11 +3,10 @@
  💬 How to reach me: dsm [@protasima](https://t.me/protasima) or protasima@bk.ru if you prefer mail
 ****
 ### About me
-I'm prefer back-end development, but I have to be a full stack developer in the implementation of educational issues😊
 * 💻 Creating bugs since 2018
-* 📚 I'm currently learning in technical aspects of information security and cryptography
-* ⚡ In my free time, I'm practicing in front-end development 📈
-* 📋 There is my public channel: ⚙️[the child of the winds](https://t.me/dev_protasima)⚙️
+* 📚 I'm currently learning in technical aspects of information security and cryptography ⚙️
+* ⚡ Full-stack (btw prefer back-end and network coding) and Secure Developer ⚙️
+* 📋 Night coding sessions are my passion also hate codning without inspiring :atom: 
 * 🎉 Hobbies: videogames 🎮, reading books, listening music 🎧
 
 
@@ -21,6 +20,8 @@ I'm prefer back-end development, but I have to be a full stack developer in the 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src = "https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" height="40" alt = "js logo"/>
+  <img width ="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
