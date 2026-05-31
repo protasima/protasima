@@ -6,13 +6,13 @@
 * 💻 Creating bugs since 2018
 * 📚 I'm currently learning in technical aspects of information security and cryptography ⚙️
 * ⚡ Full-stack (btw prefer back-end and network coding) and Secure Developer ⚙️
-* 📋 Night coding sessions are my passion also hate codning without inspiring :atom: 
+* 📋 Night coding sessions are my passion also hate coding without inspiring :atom: 
 * 🎉 Hobbies: videogames 🎮, reading books, listening music 🎧
 
 
 ### I code with:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -20,8 +20,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src = "https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" height="40" alt = "js logo"/>
+  <img src = "https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original-wordmark.svg" height="40" alt = "js logo" />
   <img width ="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width ="12"/>
 </div>
 
