@@ -1,6 +1,6 @@
 # Hi there 👋
 **I'm Maksim, I'm currently an student of information security, from Russia.**<br>
- 💬 How to reach me: dsm [@protasima](https://t.me/protasima) or protasima@bk.ru if you prefer mail
+ 💬 How to reach me: dsm [@protasima](https://t.me/anothersima) or protasima@bk.ru if you prefer mail
 ****
 ### About me
 * 💻 Creating bugs since 2018
